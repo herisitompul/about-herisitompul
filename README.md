@@ -17,10 +17,6 @@
 <br />
 
 ---
-### Connect with me:
-[![website](./img/instagram-light.svg)](https://instagram.com/mickaelsitompul#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/mickaelsitompul#gh-dark-mode-only)
-
 
 
 [webdev]: https://github.com/herisitompul/herisitompul
